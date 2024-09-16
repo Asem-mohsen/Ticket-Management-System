@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Cprojects\TrainMangementSystem\bin\Debug\TrainMangementSystem.exe.config
+C:\Users\User\source\repos\Cprojects\TrainMangementSystem\bin\Debug\TrainMangementSystem.exe
+C:\Users\User\source\repos\Cprojects\TrainMangementSystem\bin\Debug\TrainMangementSystem.pdb
+C:\Users\User\source\repos\Cprojects\TrainMangementSystem\obj\Debug\TrainMangementSystem.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Cprojects\TrainMangementSystem\obj\Debug\TrainMangementSystem.Properties.Resources.resources
+C:\Users\User\source\repos\Cprojects\TrainMangementSystem\obj\Debug\TrainMangementSystem.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Cprojects\TrainMangementSystem\obj\Debug\TrainMangementSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cprojects\TrainMangementSystem\obj\Debug\TrainMangementSystem.exe
+C:\Users\User\source\repos\Cprojects\TrainMangementSystem\obj\Debug\TrainMangementSystem.pdb
+C:\Users\User\source\repos\Cprojects\TrainMangementSystem\obj\Debug\TrainMangementSystem.Passengers.resources
+C:\Users\User\source\repos\Cprojects\TrainMangementSystem\obj\Debug\TrainMangementSystem.Login.resources
+C:\Users\User\source\repos\Cprojects\TrainMangementSystem\obj\Debug\TrainMangementSystem.Train.resources
+C:\Users\User\source\repos\Cprojects\TrainMangementSystem\bin\Debug\Guna.UI2.dll
+C:\Users\User\source\repos\Cprojects\TrainMangementSystem\obj\Debug\TrainMan.3987C857.Up2Date
+C:\Users\User\source\repos\Cprojects\TrainMangementSystem\obj\Debug\TrainMangementSystem.Drivers.resources
